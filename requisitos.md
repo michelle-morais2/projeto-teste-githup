@@ -1,8 +1,10 @@
 # Requisitos do Projeto
 
 ## Requisitos Funcionais (RF)
+
 RF01 - Cadastro Multifacetado do Aluno
 Descrição: O sistema deve permitir o cadastro completo do aluno, incluindo dados demográficos, escolares, hábitos de atividade física e condições de saúde. Regras:
+
 • Campos obrigatórios: Nome, Data de Nascimento, Sexo, Escola, Série, Turma e Dados dos Pais.
     
 • Deve incluir campos para variáveis ambientais no momento da avaliação: Temperatura e Horário. Critério de Aceite:
@@ -10,7 +12,7 @@ Descrição: O sistema deve permitir o cadastro completo do aluno, incluindo dad
 • [ ] Validar formato de data e obrigatoriedade dos campos de contato (Email/Telefone).
 
 • [ ] Permitir a seleção de modalidades esportivas e frequência semanal.
-    
+
 RF02 - Motor de Avaliação Adaptativa (Seleção de Protocolo)
 Descrição: O sistema deve selecionar automaticamente o protocolo científico (PROESP-Br, PRODOWN ou BAF-DV) com base na deficiência informada. Regras:
 
@@ -60,6 +62,7 @@ Descrição: Emissão de notificações diferenciadas caso o aluno atinja zonas 
 
     
 ## Requisitos Não-Funcionais (RNF)
+
   RNF01 (Segurança): Conformidade estrita com a LGPD (Lei Geral de Proteção de Dados), especialmente por lidar com dados sensíveis de menores e condições de saúde.
   
   RNF02 (Usabilidade): Interface móvel adaptada para uso em ambientes externos (alto contraste para visualização sob sol).

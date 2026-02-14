@@ -1,17 +1,10 @@
-## Estrutura HTML5 - SAFE+
+## Atualização - Estrutura HTML5
 
-Este projeto foi estruturado utilizando HTML5 semântico:
+Projeto Safe+ estruturado utilizando:
 
-- header
-- nav
-- main
-- section
-- aside
-- footer
-- form
-- fieldset
-- legend
+- Tags semânticas do HTML5
+- Organização com <header>, <nav>, <main>, <section>, <article> e <footer>
+- Formulários com novos types do HTML5 (number, time, etc.)
+- Versionamento realizado com Git
 
-Os requisitos funcionais foram transformados em elementos de interface utilizando inputs do HTML5.
-
-
+Estrutura desenvolvida como parte da atividade de Desenvolvimento Web.
